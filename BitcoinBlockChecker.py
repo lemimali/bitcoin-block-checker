@@ -2,7 +2,7 @@
 
 # Program that verifies if a hash of a bitcoin block is acceptable or not.
 # Program calculates the hash and checks if it matches with the hash the block creator has sent.
-# It also checks if creators has hash value is equal or smaller than target bits value.
+# It also checks if creators hash value is equal or smaller than target bits value.
 # Program needs block's hash as a parameter to make the needed work. Best way to get a hash is to go to
 # blockchain.com's explorer section and choose a block from there. Then copy hash value from block's info page.
 
